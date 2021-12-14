@@ -2,6 +2,6 @@
 
 **A simple smart contract wallet with the following features;**
 
-Able to receive ether from anyone.
-Able to have the balance be viewed by the owner only.
-Funds can only be withdrawn by the owner.
+1. Able to receive ether from anyone.
+2. Able to have the balance be viewed by the owner only.
+3. Funds can only be withdrawn by the owner.
